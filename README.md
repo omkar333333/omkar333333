@@ -56,7 +56,7 @@ Passionate about Machine Learning, Data Science, and Software Development. I enj
 - Git
 - GitHub
 - Jupyter Notebook
-- VS Code
+- pycharm
 
 ---
 
