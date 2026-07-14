@@ -81,7 +81,7 @@ Created a classification model to predict student academic performance using mac
 - Machine Learning
 - Feature Engineering
 - Model Optimization
-- DSA in C++
+- DSA in python
 - AI Engineering
 
 ---
