@@ -43,6 +43,7 @@ Passionate about Machine Learning, Data Science, and Software Development. I enj
 - Model Evaluation
 - Train-Test Split
 - Scikit-Learn Pipelines
+- KMeans ,PCA
 
 ### Computer Science Fundamentals
 - Object-Oriented Programming (OOP)
