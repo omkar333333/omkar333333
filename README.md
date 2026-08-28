@@ -7,58 +7,56 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/omkar333333">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/omkar-mote-4a0865320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=brain&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Science-20A464?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Anime%20%26%20Manga-E91E63?style=for-the-badge&logo=bookstack&logoColor=white">
 </p>
 
----
-
-## 👨‍💻 About Me
-
-🎓 **B.E. Artificial Intelligence & Data Science Student**
-
-🤖 Interested in **Machine Learning, Artificial Intelligence & Data Science**
-
-🐍 Building practical applications using **Python**
-
-📊 Exploring **Data Analysis, Visualization & Predictive Modeling**
-
-🖥️ Developing desktop applications with **Tkinter & PyQt**
-
-🎨 Interested in **Anime Drawing, Character Design & Manga Creation**
+> 💻 Building practical and intelligent solutions through code and creativity.
 
 ---
 
-## ⚡ Skills
+## 🧑‍💻 About Me
 
-### 💻 Programming
+🎓 Third-year **B.E. Artificial Intelligence & Data Science** student  
+🤖 Passionate about **Machine Learning, AI & Data Science**  
+🐍 Building practical applications using **Python**  
+📊 Exploring **Data Analysis, Visualization & Predictive Modeling**  
+🖥️ Developing desktop applications with **Tkinter & PyQt**  
+🎨 Enjoy **Anime Drawing, Character Design & Manga Creation**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### 🤖 Machine Learning & Data Science
+## 🛠️ Skills
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🤖 ML & Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### 📊 Data Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
 ### 🖥️ GUI Development
 
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -66,19 +64,21 @@
 
 ### 🤖 Machine Learning Projects
 
-A collection of practical Machine Learning projects covering data preprocessing, analysis, visualization, model training, and evaluation.
+A collection of practical Machine Learning projects covering:
 
-**Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn**
+**Data Preprocessing • EDA • Visualization • Feature Engineering • Model Training • Model Evaluation**
 
-🔗 **[View Repository](https://github.com/omkar333333/MACHINE-LEARNING-PROJECTS)**
+**Tech:** Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+
+🔗 [View Repository](https://github.com/omkar333333/MACHINE-LEARNING-PROJECTS)
 
 ---
 
 ### 🩺 Diabetes Prediction
 
-Machine Learning project for predicting diabetes using patient-related data.
+Machine Learning project for predicting diabetes using patient-related features.
 
-**Python • Pandas • NumPy • Scikit-learn**
+**Tech:** Python • Pandas • NumPy • Scikit-learn
 
 ---
 
@@ -86,7 +86,7 @@ Machine Learning project for predicting diabetes using patient-related data.
 
 Machine Learning project for predicting airline ticket prices using flight-related features.
 
-**Python • Pandas • NumPy • Scikit-learn**
+**Tech:** Python • Pandas • NumPy • Scikit-learn
 
 ---
 
@@ -94,17 +94,19 @@ Machine Learning project for predicting airline ticket prices using flight-relat
 
 Python desktop application for secure file transfer using Bluetooth and encryption.
 
-**Python • Tkinter • Bluetooth • Encryption**
+**Tech:** Python • Tkinter • Bluetooth • Encryption
 
 ---
 
-## 🎨 Creative Interests
+## 🎨 Creative Side
 
-🎌 **Anime Drawing**  
-Character Design • Digital Art • Illustration
+### 🎌 Anime Drawing
 
-📖 **Manga Maker**  
-Character Creation • Storytelling • Panel Design
+Character design, digital drawing and anime-style illustration.
+
+### 📖 Manga Maker
+
+Character creation, storytelling, panel design and visual composition.
 
 ---
 
@@ -124,23 +126,6 @@ Also improving:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar333333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar333333&layout=compact&theme=tokyonight&hide_border=true" width="49%">
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omkar333333&theme=tokyonight&hide_border=true" width="70%">
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -151,6 +136,10 @@ Also improving:
 
 <a href="https://www.linkedin.com/in/omkar-mote-4a0865320/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
