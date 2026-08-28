@@ -1,84 +1,121 @@
 # 👋 Hi, I'm Omkar Mote
 
-### 🤖 AI & Data Science Engineering Student
+### 🤖 Artificial Intelligence & Data Science Student
 
 <p align="center">
-  <b>Machine Learning</b> • <b>Data Science</b> • <b>Python Development</b> • <b>Anime & Manga</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Data+Science;Python+Developer;Building+Projects+%26+Learning+Every+Day;Anime+%26+Manga+Enthusiast" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-🎓 B.E. Artificial Intelligence & Data Science  
-🤖 Machine Learning & AI enthusiast  
-🐍 Python developer | 📊 Data Science  
-🖥️ Tkinter & PyQt developer  
-🎨 Anime Drawing & Manga Creation  
+🎓 Third Year B.E. **Artificial Intelligence & Data Science**
 
----
+🤖 Passionate about **Machine Learning, AI & Data Science**
 
-## ⚡ Skills
+🐍 Building practical applications with **Python**
 
-| 💻 Programming | 🤖 ML & Data Science | 🖥️ Development |
-|---|---|---|
-| Python | NumPy | Tkinter |
-| C++ | Pandas | PyQt |
-| SQL | Matplotlib | Git |
-| | Seaborn | GitHub |
-| | Scikit-learn | VS Code |
+📊 Exploring **Data Analysis & Visualization**
+
+🎨 Creating and exploring **Anime Art & Manga**
 
 ---
 
-## 🚀 Projects
+## 🧰 Technologies
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🤖 **Machine Learning Projects** | Collection of ML projects | Python • Pandas • NumPy • Scikit-learn |
-| 🩺 **Diabetes Prediction** | Diabetes classification model | Python • Pandas • Scikit-learn |
-| ✈️ **Airline Price Prediction** | Airline price prediction | Python • Pandas • ML |
-| 🔐 **Bluetooth File Transfer** | Encrypted Bluetooth file transfer | Python • Tkinter • Encryption |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" />
+</p>
 
-🔗 **[View My Machine Learning Projects](https://github.com/omkar33333/MACHINE-LEARNING-PROJECTS)**
+<p align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
+
+</p>
 
 ---
 
-## 🎨 Creative
+## 🌟 Featured Projects
 
-**🎌 Anime Drawing**  
-Character design • Digital Art • Illustration
+### 🤖 Machine Learning Projects
 
-**📖 Manga Maker**  
-Storytelling • Character Design • Panel Design
+**A collection of practical Machine Learning projects**
+
+`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
+
+**→ [Explore Repository](https://github.com/omkar33333/MACHINE-LEARNING-PROJECTS)**
+
+---
+
+### 🩺 Diabetes Prediction
+
+Machine Learning model for diabetes prediction and classification.
+
+`Python` `Pandas` `Scikit-learn`
+
+---
+
+### ✈️ Airline Price Prediction
+
+Machine Learning project for predicting airline ticket prices.
+
+`Python` `Pandas` `Scikit-learn`
+
+---
+
+### 🔐 Encrypted Bluetooth File Transfer
+
+Python desktop application for secure Bluetooth file transfer.
+
+`Python` `Tkinter` `Encryption` `Bluetooth`
+
+---
+
+## 🎨 Beyond Code
+
+🎌 **Anime Drawing**  
+Character design • Digital illustration
+
+📖 **Manga Maker**  
+Storytelling • Character creation • Panel design
 
 ---
 
 ## 📚 Currently Learning
 
-**Machine Learning** → **Deep Learning** → **Computer Vision** → **Generative AI**
+**Machine Learning → Deep Learning → Computer Vision → Generative AI**
 
-Also improving **DSA • SQL • Statistics • DBMS**
+Also improving:
+
+`DSA` `SQL` `Statistics` `DBMS`
 
 ---
 
 ## 🎯 Goal
 
-> **Aspiring AI/ML Engineer — building practical solutions with AI and Machine Learning.**
+> **Aspiring AI/ML Engineer building practical and intelligent solutions.**
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar33333&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar33333&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar33333&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar33333&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 <p align="center">
 
-**🤖 Learn • 💻 Build • 🎨 Create • 🚀 Improve**
+### 💫 Learn • Build • Create
 
 <a href="https://github.com/omkar33333">GitHub</a> •
 <a href="https://www.linkedin.com/">LinkedIn</a>
