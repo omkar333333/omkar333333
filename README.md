@@ -3,30 +3,37 @@
 ### 🤖 AI & Data Science Engineering Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Data+Science+Explorer;Anime+%26+Manga+Creator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Data+Science+Explorer;Anime+%26+Manga+Enthusiast" />
 </p>
 
 <p align="center">
-  <b>Machine Learning</b> •
-  <b>Data Science</b> •
-  <b>Python Development</b> •
-  <b>Creative Projects</b>
+  <a href="https://github.com/omkar333333">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/omkar-mote-4a0865320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Third-year **B.E. Artificial Intelligence & Data Science** student  
-🤖 Interested in **Machine Learning, Artificial Intelligence & Data Science**  
-🐍 Building practical applications with **Python**  
-📊 Exploring **Data Analysis, Visualization & Predictive Modeling**  
-🖥️ Developing desktop applications using **Tkinter & PyQt**  
-🎨 Enjoy **Anime Drawing, Character Design & Manga Creation**
+🎓 **B.E. Artificial Intelligence & Data Science Student**
+
+🤖 Interested in **Machine Learning, Artificial Intelligence & Data Science**
+
+🐍 Building practical applications using **Python**
+
+📊 Exploring **Data Analysis, Visualization & Predictive Modeling**
+
+🖥️ Developing desktop applications with **Tkinter & PyQt**
+
+🎨 Interested in **Anime Drawing, Character Design & Manga Creation**
 
 ---
 
-## 🛠️ Skills
+## ⚡ Skills
 
 ### 💻 Programming
 
@@ -55,13 +62,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🤖 Machine Learning Projects
 
 A collection of practical Machine Learning projects covering data preprocessing, analysis, visualization, model training, and evaluation.
 
-**Tech:** Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+**Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn**
 
 🔗 **[View Repository](https://github.com/omkar333333/MACHINE-LEARNING-PROJECTS)**
 
@@ -69,9 +76,9 @@ A collection of practical Machine Learning projects covering data preprocessing,
 
 ### 🩺 Diabetes Prediction
 
-Machine Learning project for predicting diabetes using patient-related features.
+Machine Learning project for predicting diabetes using patient-related data.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn
+**Python • Pandas • NumPy • Scikit-learn**
 
 ---
 
@@ -79,7 +86,7 @@ Machine Learning project for predicting diabetes using patient-related features.
 
 Machine Learning project for predicting airline ticket prices using flight-related features.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn
+**Python • Pandas • NumPy • Scikit-learn**
 
 ---
 
@@ -87,21 +94,23 @@ Machine Learning project for predicting airline ticket prices using flight-relat
 
 Python desktop application for secure file transfer using Bluetooth and encryption.
 
-**Tech:** Python • Tkinter • Bluetooth • Encryption
+**Python • Tkinter • Bluetooth • Encryption**
 
 ---
 
 ## 🎨 Creative Interests
 
-🎌 **Anime Drawing** — Character design, digital drawing & illustration
+🎌 **Anime Drawing**  
+Character Design • Digital Art • Illustration
 
-📖 **Manga Maker** — Character creation, storytelling & panel design
+📖 **Manga Maker**  
+Character Creation • Storytelling • Panel Design
 
 ---
 
 ## 📚 Currently Learning
 
-**Machine Learning** → **Deep Learning** → **Computer Vision** → **Generative AI**
+**Machine Learning → Deep Learning → Computer Vision → Generative AI**
 
 Also improving:
 
@@ -113,15 +122,13 @@ Also improving:
 
 > **Aspiring AI/ML Engineer building practical and intelligent solutions.**
 
-I enjoy learning through projects, experimenting with new ideas, and continuously improving my technical skills.
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar333333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar333333&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar333333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar333333&layout=compact&theme=tokyonight&hide_border=true" width="49%">
 </p>
 
 ---
@@ -129,7 +136,7 @@ I enjoy learning through projects, experimenting with new ideas, and continuousl
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omkar333333&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=omkar333333&theme=tokyonight&hide_border=true" width="70%">
 </p>
 
 ---
@@ -139,11 +146,11 @@ I enjoy learning through projects, experimenting with new ideas, and continuousl
 <p align="center">
 
 <a href="https://github.com/omkar333333">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/omkar-mote-4a0865320/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
@@ -152,7 +159,7 @@ I enjoy learning through projects, experimenting with new ideas, and continuousl
 
 <p align="center">
 
-### 💫 Learn • Build • Create
+### ✨ Learn • Build • Create • Improve
 
 ⭐ **Thanks for visiting my profile!**
 
