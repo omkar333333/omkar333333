@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year **B.E. Artificial Intelligence & Data Science** student
+- 🎓 **B.E. Artificial Intelligence & Data Science** student
 - 🤖 Interested in **Artificial Intelligence, Machine Learning & Data Science**
 - 🐍 Building practical projects using **Python**
 - 📊 Working with **Data Analysis and Data Visualization**
