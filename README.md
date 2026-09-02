@@ -102,7 +102,7 @@ Desktop application for secure Bluetooth file transfer using encryption.
 
 ## 📚 Currently Learning
 
-**Machine Learning → Deep Learning → Computer Vision → Generative AI**
+**Advance Machine Learning → Deep Learning → Computer Vision → Generative AI**
 
 `DSA` • `SQL` • `Statistics` • `DBMS`
 
