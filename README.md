@@ -1,102 +1,84 @@
+Hi 👋, I'm Omkar Mote
 
-👋 Hi, I'm Omkar Mote
-
-🤖 AI & Data Science Engineering Student | Python Developer | ML Enthusiast
+AI & Data Science Engineering Student | Python & Machine Learning Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Data+Science+Explorer;Python+Developer;Building+Intelligent+Solutions+with+Code" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DATA%20SCIENCE-20A464?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PYTHON%20DEVELOPER-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/AI%20ENTHUSIAST-FF6F00?style=for-the-badge">
-</p><p align="center">
-  <b>💻 Building practical and intelligent solutions through code, data, and creativity.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Building+Practical+Projects" />
 </p>---
 
-👨‍💻 About Me
+About Me
 
-- 🎓 Third-year B.E. Artificial Intelligence & Data Science Engineering student
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
-- 🐍 Building practical applications using Python
-- 📊 Exploring Data Analysis, Visualization & Predictive Modeling
-- 🧠 Familiar with Supervised Learning & Unsupervised Learning
-- 🖥️ Developing applications using Tkinter & PyQt
-- 🚀 Deploying projects using Render
-- 💻 Working with PyCharm & VS Code
-- 🎨 Enjoy Anime, Manga, Character Design & Digital Art
+I'm a third-year B.E. Artificial Intelligence & Data Science Engineering student passionate about building practical projects with Python, Machine Learning, and Data Science.
 
----
-
-🛠️ Technical Skills
-
-💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>🤖 Machine Learning & Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-</p>🧠 Machine Learning Concepts
-
-- 🤖 Supervised Learning
-- 📈 Regression
-- 🏷️ Classification
-- 🔍 Unsupervised Learning
-- 🧩 Clustering
-- 🧹 Data Preprocessing
-- ⚙️ Model Training
-- 📊 Model Evaluation
-
-📊 Data Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-</p>🖥️ GUI Development
-
-<p>
-  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-</p>🔧 Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-</p>🚀 Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
-</p>- 🌐 Deploying Python and web applications using Render
-- 🔧 Version control using Git & GitHub
+- Interested in Machine Learning and Data Science
+- Familiar with Supervised and Unsupervised Learning
+- Working with Data Analysis and Visualization
+- Building applications using Python, Tkinter, and PyQt
+- Deploying projects using Render
+- Using PyCharm, VS Code, Git, and GitHub
 
 ---
 
-🚀 Projects
+Tech Stack
+
+Languages
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"C++" (https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+Machine Learning & Data Science
+
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+"Scikit-learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+Concepts: Supervised Learning • Unsupervised Learning • Regression • Classification • Clustering • Data Preprocessing • Model Evaluation
+
+Tools & Deployment
+
+"PyCharm" (https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+"Render" (https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+---
+
+Featured Projects
 
 🤖 Machine Learning Projects
 
-A collection of practical Machine Learning projects covering:
+A collection of practical Machine Learning projects covering data preprocessing, analysis, visualization, model training, and evaluation.
 
-- 📊 Data Preprocessing
-- 🔍 Exploratory Data Analysis
-- 📈 Data Visualization
-- 🤖 Machine Learning Model Training
-- 🧪 Model Evaluation
-- 📊 Predictive Analysis
+Tech: Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
 
-Tech Stack:
-"Python" • "NumPy" • "Pandas" • "Matplotlib" • "Seaborn" • "Scikit-learn"
+🔗 "View Repository" (https://github.com/omkar333333/MACHINE-LEARNING-PROJECTS)
 
-🔗 Repository:
-https://github.com/omkar333333/MACHINE-LEARNING-PROJECTS
+🩺 Diabetes Prediction
+
+A Machine Learning project that predicts diabetes using patient-related data.
+
+Tech: Python • Pandas • NumPy • Scikit-learn
+
+✈️ Airline Price Prediction
+
+A Machine Learning project focused on predicting airline ticket prices using historical data.
+
+Tech: Python • Pandas • NumPy • Scikit-learn
+
+---
+
+GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=omkar333333&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar333333&layout=compact&theme=transparent&hide_border=true"/>
+</p>---
+
+<p align="center">
+  <i>Learning, building, and exploring Artificial Intelligence.</i>
+</p>https://github.com/omkar333333/MACHINE-LEARNING-PROJECTS
 
 ---
 
