@@ -58,6 +58,7 @@
 - Data Cleaning
 - Model Training
 - Model Evaluation
+- Dimensionality Reduction
 
 ### 📊 Data Visualization
 
